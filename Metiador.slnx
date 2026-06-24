@@ -1,3 +1,7 @@
 <Solution>
+  <Project Path="DataMetiador/Metiador.Data.csproj" Id="aec30e9c-16d8-40cd-b121-1d8ba5fca8d2" />
+  <Project Path="Metiador.WepApi/Metiador.WebApi.csproj" Id="d96e99c4-1b07-4bbb-ba27-0128e20a08ad" />
   <Project Path="Metiador/Metiador.csproj" />
+  <Project Path="ModelMetiador/Metiador.Model.csproj" Id="2b7137d3-d7d5-45de-99e9-56f1f3a35745" />
+  <Project Path="ServiceMetiador/Metiador.Service.csproj" Id="bacbe726-5749-4ca0-8170-c41e3b40764b" />
 </Solution>
